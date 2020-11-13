@@ -40,3 +40,8 @@ Generate my own opcode set that will include opcodes for:
 * Matrix Multiply to/from memory, to/from register
 * Matrix Transpose to/from memory, to/from register
 * Matrix scale  to/from memory, to/from register
+
+### Installation
+
+Clone this repo for easy access 
+`git clone https://github.com/Jb591/Simple-Matrix-Engine.git`
